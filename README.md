@@ -1,4 +1,4 @@
 # cellular-protein-thermostability-dataset
-real_all_features: the 10720 features of 1122 proteins involved in ortholog pairs.
+real_all_features: the 10720 features of 1122 proteins in ortholog pairs.
 
-random_all_features: the 10720 features of 1363 proteins used in random pairs.
+random_all_features: the 10720 features of 1363 proteins in the random pairs.
